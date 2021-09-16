@@ -70,7 +70,7 @@ public class Pessoa implements Serializable {
 ```
 
 ```java
-package aplicacao;
+package application;
 
 import dominio.Pessoa;
 
@@ -101,6 +101,16 @@ public class Programa {
 </properties>
 ```
 **Inclua as dependências Maven a serem baixadas:**
+
+Hibernate Core (Selecionar a última versão estável):
+https://mvnrepository.com/artifact/org.hibernate/hibernate-core
+
+Hibernate EntityManager Relocation (selecionar a última versão estável):
+https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager
+
+MySQL Connector/J (selecionar a última versão estável):
+https://mvnrepository.com/artifact/mysql/mysql-connector-java
+
 
 ```bash
 <dependencies>
