@@ -105,10 +105,10 @@ public class Programa {
 Hibernate Core (Selecionar a última versão estável):<br />
 https://mvnrepository.com/artifact/org.hibernate/hibernate-core
 
-Hibernate EntityManager Relocation (selecionar a última versão estável):
+Hibernate EntityManager Relocation (selecionar a última versão estável):<br />
 https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager
 
-MySQL Connector/J (selecionar a última versão estável):
+MySQL Connector/J (selecionar a última versão estável):<br />
 https://mvnrepository.com/artifact/mysql/mysql-connector-java
 
 
