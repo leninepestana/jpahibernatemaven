@@ -1,5 +1,5 @@
 ## Criando uma aplicação simples
-
+![img-pessoa](https://user-images.githubusercontent.com/22635013/133585078-8b706d5b-8d3b-4e3c-beac-9d9c6223b471.png)
 ### Passos
 
 **Crie uma base de dados MySQL vazia**
