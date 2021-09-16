@@ -102,7 +102,7 @@ public class Programa {
 ```
 **Inclua as dependências Maven a serem baixadas:**
 
-Hibernate Core (Selecionar a última versão estável):
+Hibernate Core (Selecionar a última versão estável):``
 https://mvnrepository.com/artifact/org.hibernate/hibernate-core
 
 Hibernate EntityManager Relocation (selecionar a última versão estável):
