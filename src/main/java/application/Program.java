@@ -30,8 +30,13 @@ public class Program {
 		em.getTransaction().commit();
 		*/
 		
-		// Searching database
 		Pessoa p = em.find(Pessoa.class, 2);
+		
+		// Removing a specific entry in database
+		// The object must be monitorized
+		em.getTransaction().begin();		
+		em.remove(p);
+		em.getTransaction().commit();
 		
 		System.out.println(p);
 		
